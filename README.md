@@ -1,2 +1,2 @@
 # WebProgramming2
->Direktori untuk tugas Web Programming 2
+>Repository untuk tugas Web Programming 2
