@@ -1,5 +1,5 @@
 ## UTS Web Programmming 2
-### Website Penjualan Sparepart Motor | Kelompok 8
+### Kelompok 8 >> Website Penjualan Sparepart Motor
 ### "Otomodif"
 
 >**Data Diri**
