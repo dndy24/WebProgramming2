@@ -4,6 +4,8 @@
 
 > Kelompok 8
 
+**Data Diri**
+
 NIM : 17090034
 
 Nama : Dendy Jordan Wijaya
