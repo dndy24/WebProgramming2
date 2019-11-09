@@ -1,10 +1,8 @@
 ## UTS Web Programmming 2
-### Website Penjualan Sparepart Motor
+### Website Penjualan Sparepart Motor | Kelompok 8
 ### "Otomodif"
 
-> Kelompok 8
-
-**Data Diri**
+>**Data Diri**
 
 NIM : 17090034
 
