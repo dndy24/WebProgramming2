@@ -6,10 +6,11 @@ Hasil tampilan Chat JSON PDO
 
 >Kelompok 7
 
-Data diri :
+### Anggota
+17090133 Atika Dewi Lestari
 
-Nama  : Dendy Jordan Wijaya
+17090034 Dendy Jordan Wijaya
+
+17090112 Fitriana Nur Afifah Salsabila
 
 Kelas : 5B
-
-NIM   : 17090034
