@@ -1,6 +1,4 @@
-# Web Programming 2
-
->TUGAS09_AJAX
+# Web Programming 2 AJAX
 
 Nama : Dendy Jordan Wijaya
 
