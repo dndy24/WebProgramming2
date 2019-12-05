@@ -2,8 +2,12 @@
 
 >*Kelompok 8*
 
-NIM   : 17090034
+### Anggota :
 
-Nama  : Dendy Jordan Wijaya
+17090034 Dendy Jordan Wijaya
 
-Kelas : 5B
+17090042 Ismi Nururrizqi
+
+17090047 Muhammad Irfan Bakhtiar
+
+Kelas 5B
