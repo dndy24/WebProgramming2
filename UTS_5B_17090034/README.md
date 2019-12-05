@@ -2,7 +2,7 @@
 ### Kelompok 8 >> Website Penjualan Sparepart Motor
 ### "Otomodif"
 
-### Anggota :
+>### Anggota :
 
 17090034 Dendy Jordan Wijaya
 
