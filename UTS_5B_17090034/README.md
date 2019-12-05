@@ -2,10 +2,12 @@
 ### Kelompok 8 >> Website Penjualan Sparepart Motor
 ### "Otomodif"
 
->**Data Diri**
+### Anggota :
 
-NIM : 17090034
+17090034 Dendy Jordan Wijaya
 
-Nama : Dendy Jordan Wijaya
+17090042 Ismi Nururrizqi
 
-Kelas : 5B
+17090047 Muhammad Irfan Bakhtiar
+
+Kelas 5B
